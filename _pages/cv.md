@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024-Present
+* **B.Eng.**, Shanghai Jiao Tong University, 2020-2024
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research Intern**, MINIMAX, February 2025 - Present
+* **Research Intern**, Tencent WXG, June 2024 - September 2024
+* **Research Intern**, Shanghai AI Lab, June 2023 - December 2023
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+**First-author papers:**
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — *Arxiv*, 2025.
+2. **On the Perception Bottleneck of VLMs for Chart Understanding** — *Arxiv*, 2025.
+3. **On the Universal Truthfulness Hyperplane Inside LLMs** — *EMNLP 2024*.
+
+**Co-authored papers:**
+4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — *ICML 2024*.
+5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — *NeurIPS 2023*.
+6. **Composing Parameter-Efficient Modules with Arithmetic Operations** — *NeurIPS 2023*.
+
+Honors & Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Natural Language Processing
+* Machine Learning
+* LLM Reasoning
+* Reinforcement Learning
+* Vision-Language Models (VLM)
+* Hallucination Mitigation
+* LLM Truthfulness
+* Interpretability
